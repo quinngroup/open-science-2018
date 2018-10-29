@@ -1,2 +1,3 @@
-# open-science-2018
+# Open Science Guest Lecture
+
 Materials for Open Science guest lecture with Dr. Nicole Lazar.
